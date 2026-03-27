@@ -17,7 +17,7 @@ A Python-based project to extract data from websites using web scraping techniqu
 1. Install dependencies:
    pip install requests beautifulsoup4
 2. Run the script:
-   python scraper.py
+   python web_scraper.py
 
 ## 📊 Output
 - Extracted data displayed in console or saved to file
@@ -26,8 +26,9 @@ A Python-based project to extract data from websites using web scraping techniqu
 - Web scraping fundamentals
 - Working with APIs and HTML parsing
 - Data extraction techniques
-## 🧠 Key Concepts Explained
 
+ 
+## 🧠 Key Concepts Explained
 ### 🔹 Web Scraping
 Web scraping is the process of extracting data from websites automatically.
 
